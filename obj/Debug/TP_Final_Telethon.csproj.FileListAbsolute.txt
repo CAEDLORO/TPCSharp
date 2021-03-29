@@ -1,0 +1,14 @@
+C:\Users\Familia\Desktop\C#\TP_Final_Telethon\bin\Debug\TP_Final_Telethon.exe.config
+C:\Users\Familia\Desktop\C#\TP_Final_Telethon\bin\Debug\TP_Final_Telethon.exe
+C:\Users\Familia\Desktop\C#\TP_Final_Telethon\bin\Debug\TP_Final_Telethon.pdb
+C:\Users\Familia\Desktop\C#\TP_Final_Telethon\obj\Debug\TP_Final_Telethon.csprojAssemblyReference.cache
+C:\Users\Familia\Desktop\C#\TP_Final_Telethon\obj\Debug\TP_Final_Telethon.Properties.Resources.resources
+C:\Users\Familia\Desktop\C#\TP_Final_Telethon\obj\Debug\TP_Final_Telethon.csproj.GenerateResource.cache
+C:\Users\Familia\Desktop\C#\TP_Final_Telethon\obj\Debug\TP_Final_Telethon.csproj.CoreCompileInputs.cache
+C:\Users\Familia\Desktop\C#\TP_Final_Telethon\obj\Debug\TP_Final_Telethon.exe
+C:\Users\Familia\Desktop\C#\TP_Final_Telethon\obj\Debug\TP_Final_Telethon.pdb
+C:\Users\Familia\Desktop\C#\TP_Final_Telethon\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\Familia\Desktop\C#\TP_Final_Telethon\bin\Debug\Bunifu_UI_v1.5.3.xml
+C:\Users\Familia\Desktop\C#\TP_Final_Telethon\obj\Debug\TP_Final_Telethon.Form1.resources
+C:\Users\Familia\Desktop\C#\TP_Final_Telethon\obj\Debug\TP_Final_Telethon.csproj.CopyComplete
+C:\Users\Familia\Desktop\C#\TP_Final_Telethon\bin\Debug\Guna.UI2.dll

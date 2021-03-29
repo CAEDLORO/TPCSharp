@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TP_Final_Telethon", "TP_Final_Telethon.csproj", "{9BA4EAAB-9D0E-48AE-90E4-AB35F175DBB1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Telethon", "..\..\..\source\repos\PruebaHP\PruebaHP\Telethon.csproj", "{240E51C9-7AE2-4D00-9E71-A36C27F00C75}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9BA4EAAB-9D0E-48AE-90E4-AB35F175DBB1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9BA4EAAB-9D0E-48AE-90E4-AB35F175DBB1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9BA4EAAB-9D0E-48AE-90E4-AB35F175DBB1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9BA4EAAB-9D0E-48AE-90E4-AB35F175DBB1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{240E51C9-7AE2-4D00-9E71-A36C27F00C75}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{240E51C9-7AE2-4D00-9E71-A36C27F00C75}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{240E51C9-7AE2-4D00-9E71-A36C27F00C75}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{240E51C9-7AE2-4D00-9E71-A36C27F00C75}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {070C33B5-288E-4AD3-B2E1-41934228084C}
+	EndGlobalSection
+EndGlobal
